@@ -2,3 +2,4 @@ first line in git after long
 
 
 2nd commit with 2nd msg in 4th line.
+3rd
